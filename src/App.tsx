@@ -1,7 +1,7 @@
 import ListGroup from "./components/ListGroup";
 
 function App() {
-  const items = ["New York", "San Francisco", "Paris", "Tokyo"];
+  const items = ["New Yor", "San Francisco", "Paris", "Tokyo"];
 
   return (
     <>
